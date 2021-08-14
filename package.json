@@ -1,0 +1,24 @@
+{
+  "name": "zenn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preview": "zenn preview",
+    "new_article": "zenn new:article"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moajo/zenn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moajo/zenn/issues"
+  },
+  "homepage": "https://github.com/moajo/zenn#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.94"
+  }
+}
