@@ -3,7 +3,7 @@ title: "公開鍵設定なし・public ip無し・ポート開放なしのイン
 emoji: "🔖"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["aws", "ec2", "ssh"]
-published: false
+published: true
 ---
 
 > 追記: この記事で説明している仕組みと全く同じ内容が既に紹介されています。
